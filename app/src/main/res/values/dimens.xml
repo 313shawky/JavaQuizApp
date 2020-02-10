@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleTextSize">40sp</dimen>
+    <dimen name="questionTextSize">20sp</dimen>
+    <dimen name="questionPadding">20dp</dimen>
+    <dimen name="answerTextSize">18sp</dimen>
+    <dimen name="answerPadding">16dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="viewHeight">20dp</dimen>
+</resources>

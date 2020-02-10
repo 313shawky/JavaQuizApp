@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Java Quiz App</string>
+    <!-- Strings for questions -->
+    <string name="q">QUESTIONS</string>
+    <string name="q1">Q1. Check whether of the following is not a Java keyword.</string>
+    <string name="q2">Q2. In Java, the single line comment is written as </string>
+    <string name="q3">Q3. What is the default size of &quot;int&quot; data type?</string>
+    <string name="q4">Q4. Which Keyword is used to define a variable with a constant value?</string>
+    <string name="q5">Q5. Which method can be used to return length of a string?</string>
+    <string name="q6">Q6. What is the expected output for this code?</string>
+    <string name="q7">Q7. Which statement is used to stop a loop?</string>
+    <string name="q8">Q8. What is the expected output for this code?</string>
+    <string name="q9">Q9. Check whether of the following is a bitwise operator.</string>
+    <string name="q10">Q10. Type the output that this code should print.</string>
+
+    <!-- Strings for images content description -->
+    <string name="q6_des">code for question 6</string>
+    <string name="q8_des">code for question 8</string>
+    <string name="q10_des">code for question 10</string>
+
+    <!-- Strings for hints -->
+    <string name="hint">Write your answer here</string>
+
+    <!-- Strings for answers -->
+    <string name="q1_ans1">void</string>
+    <string name="q1_ans2">double</string>
+    <string name="q1_ans3">def</string>
+    <string name="q1_ans4">switch</string>
+    <string name="q1_ans5">var</string>
+    <string name="q2_ans1">/* This is a comment. */</string>
+    <string name="q2_ans2">// This is a comment.</string>
+    <string name="q2_ans3">! This is a comment.</string>
+    <string name="q3_ans1">2 bytes</string>
+    <string name="q3_ans2">4 bytes</string>
+    <string name="q3_ans3">8 bytes</string>
+    <string name="q4_ans1">const</string>
+    <string name="q4_ans2">constant</string>
+    <string name="q4_ans3">static</string>
+    <string name="q4_ans4">None of the above</string>
+    <string name="q5_ans1">size()</string>
+    <string name="q5_ans2">len()</string>
+    <string name="q5_ans3">length()</string>
+    <string name="q7_ans1">exit</string>
+    <string name="q7_ans2">stop</string>
+    <string name="q7_ans3">break</string>
+    <string name="q7_ans4">go</string>
+    <string name="q9_ans1">&amp;</string>
+    <string name="q9_ans2">%</string>
+    <string name="q9_ans3">||</string>
+    <string name="q9_ans4">|</string>
+    <string name="q9_ans5">&amp;&amp;</string>
+
+    <!-- String for submit button -->
+    <string name="submit">Submit</string>
+
+</resources>
